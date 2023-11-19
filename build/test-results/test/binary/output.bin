@@ -1,0 +1,196 @@
+Request method:	POST
+0Request URI:	https://todo.ly/api/projects.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+'{"Content":"UCB_JsonObject","Icon":8}
+%>>>>>>>>>>>> Response <<<<<<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=2uiy4x3iqfwfl1lco4gek2hp; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 17 Nov 2023 16:58:35 GMT
+Content-Length: 403
+
+{
+    "Id": 4164121,
+!    "Content": "UCB_JsonObject",
+    "ItemsCount": 0,
+    "Icon": 8,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 19,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1700240316434)/",
+0    "LastUpdatedDate": "/Date(1700240316420)/",
+    "Deleted": false,
+!    "SyncClientCreationId": null
+}
+Request method:	GET
+8Request URI:	https://todo.ly/api/projects/4164121.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+%>>>>>>>>>>>> Response <<<<<<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=oy015aeaftvvg04vaexfebms; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 17 Nov 2023 16:58:40 GMT
+Content-Length: 403
+
+{
+    "Id": 4164121,
+!    "Content": "UCB_JsonObject",
+    "ItemsCount": 0,
+    "Icon": 8,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 19,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1700240320989)/",
+0    "LastUpdatedDate": "/Date(1700240316420)/",
+    "Deleted": false,
+!    "SyncClientCreationId": null
+}
+Request method:	PUT
+8Request URI:	https://todo.ly/api/projects/4164121.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+#{"Content":"UCB_Update","Icon":8}
+%>>>>>>>>>>>> Response <<<<<<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=5l5t3dydoo2fhjzjgohow42l; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 17 Nov 2023 16:58:42 GMT
+Content-Length: 399
+
+{
+    "Id": 4164121,
+    "Content": "UCB_Update",
+    "ItemsCount": 0,
+    "Icon": 8,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 19,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1700240322237)/",
+0    "LastUpdatedDate": "/Date(1700240322237)/",
+    "Deleted": false,
+!    "SyncClientCreationId": null
+}
+Request method:	DELETE
+8Request URI:	https://todo.ly/api/projects/4164121.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+%>>>>>>>>>>>> Response <<<<<<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=skmkmqys0tbktte2h2fc3xj5; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 17 Nov 2023 16:58:43 GMT
+Content-Length: 398
+
+{
+    "Id": 4164121,
+    "Content": "UCB_Update",
+    "ItemsCount": 0,
+    "Icon": 8,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 19,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1700240323485)/",
+0    "LastUpdatedDate": "/Date(1700240323470)/",
+    "Deleted": true,
+!    "SyncClientCreationId": null
+}
